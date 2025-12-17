@@ -10,7 +10,7 @@ I focus on **engineering analysis**, **software-based modeling**, and applying
 ## 🔧 Skills & Tools
 
 - **Programming:** Python, OOP  
-- **Engineering Software:** EPANET, AutoCAD, Civil 3D  
+- **Engineering Software:** EPANET, AutoCAD, Civil 3D, Diana 
 - **Analysis & Research:** Modeling, Risk Assessment, Technical Writing  
 - **Version Control:** Git & GitHub  
 
@@ -19,18 +19,18 @@ I focus on **engineering analysis**, **software-based modeling**, and applying
 ## 📊 GitHub Analytics
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majhisamir12tobe-ai&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samir-m2jhi&show_icons=true)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=majhisamir12tobe-ai)
+![GitHub Streak](https://streak-stats.demolab.com?user=samir-m2jhi)
 
 ### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majhisamir12tobe-ai&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samir-m2jhi&layout=compact)
 
 ---
 
 ## 📉 Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=majhisamir12tobe-ai)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samir-m2jhi)
 
 ---
 
@@ -57,7 +57,7 @@ Automation and calculation tools for academic and practical use.
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/majhisamir12tobe-ai  
+- GitHub: https://github.com/samir-m2jhi 
 
 ---
 
