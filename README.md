@@ -36,8 +36,6 @@ I focus on **engineering analysis**, **software-based modeling**, and applying
 
 ## 📌 Featured Projects
 
-🔹 **Water Leakage Detection using EPANET**  
-Pressure-based modeling for identifying leakage locations in water networks.
 
 🔹 **Risk Assessment of Buildings in Dense Urban Areas**  
 Impact analysis of illegal floor additions and adjacent construction activities.
